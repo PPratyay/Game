@@ -21,7 +21,14 @@ This project features an implementation of the classic Tic Tac Toe game in C++. 
    Enter 0 to exit the game.</br>
 
 # Screenshots
-
+![Screenshot](https://github.com/PPratyay/CodeBuddy/blob/main/codebuddy%20screenshots/Screenshot%202024-07-19%20154210.png)
+![Screenshot](https://github.com/PPratyay/CodeBuddy/blob/main/codebuddy%20screenshots/Screenshot%202024-07-19%20154257.png)
+![Screenshot](https://github.com/PPratyay/CodeBuddy/blob/main/codebuddy%20screenshots/Screenshot%202024-07-19%20154327.png)
+![Screenshot](https://github.com/PPratyay/CodeBuddy/blob/main/codebuddy%20screenshots/Screenshot%202024-07-19%20154415.png)
+![Screenshot](https://github.com/PPratyay/CodeBuddy/blob/main/codebuddy%20screenshots/Screenshot%202024-07-19%20154428.png)
+![Screenshot](https://github.com/PPratyay/CodeBuddy/blob/main/codebuddy%20screenshots/Screenshot%202024-07-19%20154451.png)
+![Screenshot](https://github.com/PPratyay/CodeBuddy/blob/main/codebuddy%20screenshots/Screenshot%202024-07-19%20154517.png)
+![Screenshot](https://github.com/PPratyay/CodeBuddy/blob/main/codebuddy%20screenshots/Screenshot%202024-07-19%20154532.png)
 
 # AI Implementation
 
