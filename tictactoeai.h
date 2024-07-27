@@ -115,13 +115,4 @@ void tictactoeai()
     }
 }
 
-// int main()
-// {
-//     cout << "Welcome to Tic Tac Toe!" << endl;
-//     while (1)
-//     {
-//         tictactoeai();
-//         getch();
-//     }
-//     return 0;
-// }
+
